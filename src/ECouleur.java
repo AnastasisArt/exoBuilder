@@ -1,3 +1,3 @@
-public enum couleur {
-    blanc, noir, rouge, gris, rose
+public enum ECouleur {
+    Blanc, Noir, Gris, Rose_bonbon, Lilas
 }
